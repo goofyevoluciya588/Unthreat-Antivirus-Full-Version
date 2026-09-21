@@ -251,4 +251,4 @@ This repository serves as the official landing page for UnThreat Antivirus. The 
 **Get the most recent version of UnThreat Antivirus today!**
 
 ---
-**Last updated:** 2026-09-20 22:58:51 UTC
+**Last updated:** 2026-09-21 00:59:19 UTC
